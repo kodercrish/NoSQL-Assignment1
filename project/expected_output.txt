@@ -1,0 +1,2462 @@
+NULL
+CS:84.0
+IMT_2023_082
+CS:84.0
+CS:84.0
+CS:84.0
+CS:84.0
+Math:63.0;CS:84.0
+IMT_2023_073,IMT_2023_082
+IMT_2023_073,IMT_2023_096,IMT_2023_082
+Student ID: IMT_2023_012, Name: Student_12, Email: student_12@imt.edu
+Math:63.0;Physics:84.0;CS:84.0
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+IMT_2023_073,IMT_2023_096,IMT_2023_049,IMT_2023_021,IMT_2023_082
+Math:75.5;Physics:81.5;CS:84.0
+Math:75.5;Physics:81.5;CS:84.0
+Math:75.5;Physics:81.5;CS:84.0
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+IMT_2023_073,IMT_2023_096,IMT_2023_049,IMT_2023_021,IMT_2023_082
+Math:56.5;Physics:81.5;CS:84.0
+IMT_2023_073,IMT_2023_096,IMT_2023_049,IMT_2023_021,IMT_2023_082
+Math:72.0;Physics:81.5;CS:57.0
+IMT_2023_073
+Math:72.0;Physics:81.5;CS:57.0
+Math:72.0;Physics:81.5;CS:57.0
+IMT_2023_073
+Math:72.0;Physics:80.0;CS:57.0
+Student ID: IMT_2023_057, Name: Student_57, Email: student_57@imt.edu
+IMT_2023_073
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+Math:72.4;Physics:80.0;CS:67.2
+Student ID: IMT_2023_093, Name: Student_93, Email: student_93@imt.edu
+IMT_2023_073
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Math:72.4;Physics:80.0;CS:67.2
+IMT_2023_073
+Math:72.3;Physics:80.0;CS:67.2
+IMT_2023_073,IMT_2023_010
+Math:72.7;Physics:73.6;CS:67.2
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+Math:72.7;Physics:73.6;CS:66.0
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Math:71.9;Physics:75.7;CS:65.9
+IMT_2023_073
+Math:72.4;Physics:74.3;CS:65.8
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+Math:72.4;Physics:74.3;CS:65.8
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+Math:72.4;Physics:74.3;CS:65.8
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Student ID: IMT_2023_033, Name: Student_33, Email: student_33@imt.edu
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+IMT_2023_073,IMT_2023_052,IMT_2023_010
+Math:70.4;Physics:74.3;CS:69.5
+Math:70.4;Physics:74.3;CS:69.5
+IMT_2023_010
+Math:70.4;Physics:75.6;CS:70.4
+IMT_2023_010
+IMT_2023_010
+IMT_2023_010
+Math:71.5;Physics:75.7;CS:69.8
+Student ID: IMT_2023_052, Name: Student_52, Email: student_52@imt.edu
+Math:71.5;Physics:75.7;CS:69.9
+IMT_2023_010
+Math:71.5;Physics:75.7;CS:70.8
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Math:70.1;Physics:75.7;CS:71.4
+Math:70.1;Physics:75.7;CS:71.4
+Math:70.1;Physics:75.7;CS:72.3
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+Math:70.1;Physics:75.3;CS:73.1
+Math:70.8;Physics:75.3;CS:73.1
+Student ID: IMT_2023_099, Name: Student_99, Email: student_99@imt.edu
+Math:70.8;Physics:73.8;CS:72.8
+IMT_2023_010
+Math:70.8;Physics:73.8;CS:74.1
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+IMT_2023_010
+Math:70.8;Physics:75.3;CS:74.3
+IMT_2023_010
+IMT_2023_010
+Math:70.8;Physics:75.3;CS:74.7
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+Math:72.0;Physics:75.3;CS:74.7
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+IMT_2023_010
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+IMT_2023_010
+Math:70.8;Physics:75.2;CS:74.7
+Math:70.8;Physics:75.2;CS:74.7
+IMT_2023_010
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+IMT_2023_010
+IMT_2023_010
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+IMT_2023_010
+Math:69.0;Physics:74.4;CS:74.3
+Student ID: IMT_2023_096, Name: Student_96, Email: student_96@imt.edu
+Math:69.0;Physics:74.4;CS:74.3
+Math:69.0;Physics:74.4;CS:74.3
+Math:69.8;Physics:74.4;CS:74.3
+Math:69.8;Physics:74.4;CS:73.6
+IMT_2023_010
+Math:69.8;Physics:74.4;CS:73.6
+Math:69.8;Physics:74.4;CS:73.6
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Student ID: IMT_2023_002, Name: Student_2, Email: student_2@imt.edu
+Math:69.8;Physics:74.4;CS:73.6
+Math:70.9;Physics:75.8;CS:73.6
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+IMT_2023_010
+Math:70.9;Physics:75.8;CS:73.6
+IMT_2023_010
+IMT_2023_010
+Math:70.7;Physics:75.8;CS:73.5
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+Math:70.7;Physics:75.8;CS:73.5
+Math:70.7;Physics:75.8;CS:73.5
+Math:70.7;Physics:75.8;CS:73.5
+Math:71.3;Physics:75.8;CS:73.5
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Math:71.3;Physics:75.6;CS:73.5
+Math:70.7;Physics:75.6;CS:73.5
+Math:70.7;Physics:75.6;CS:73.5
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+IMT_2023_010,IMT_2023_025
+Math:71.9;Physics:75.0;CS:73.3
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:72.9;Physics:75.0;CS:73.7
+Math:72.9;Physics:75.0;CS:73.7
+Math:73.8;Physics:75.0;CS:73.7
+Math:73.8;Physics:75.0;CS:73.7
+Math:73.8;Physics:75.0;CS:73.7
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:74.4;Physics:75.9;CS:73.7
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:74.4;Physics:75.9;CS:73.7
+Student ID: IMT_2023_057, Name: Student_57, Email: student_57@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:74.7;Physics:75.9;CS:73.7
+Math:74.7;Physics:75.9;CS:73.7
+Math:74.7;Physics:75.9;CS:73.7
+Math:74.4;Physics:75.9;CS:73.4
+Math:74.4;Physics:75.9;CS:73.4
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+Math:74.4;Physics:76.6;CS:73.4
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:74.3;Physics:75.7;CS:73.7
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+Student ID: IMT_2023_020, Name: Student_20, Email: student_20@imt.edu
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:73.4;Physics:75.7;CS:73.8
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+Student ID: IMT_2023_059, Name: Student_59, Email: student_59@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:75.0;Physics:75.7;CS:75.0
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:75.0;Physics:75.1;CS:74.3
+Math:75.4;Physics:75.1;CS:74.3
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_010, Name: Student_10, Email: student_10@imt.edu
+Student ID: IMT_2023_055, Name: Student_55, Email: student_55@imt.edu
+Math:75.5;Physics:75.1;CS:74.7
+Math:75.5;Physics:75.1;CS:74.7
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Math:75.5;Physics:74.9;CS:74.8
+Math:75.5;Physics:74.9;CS:74.8
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Math:75.5;Physics:74.9;CS:74.8
+Math:75.5;Physics:74.9;CS:74.8
+Math:75.5;Physics:74.9;CS:74.8
+Math:75.5;Physics:74.9;CS:74.8
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Math:76.2;Physics:74.9;CS:74.8
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:76.2;Physics:74.9;CS:74.8
+Math:76.2;Physics:74.9;CS:74.8
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:76.2;Physics:74.9;CS:74.8
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:76.2;Physics:74.9;CS:74.8
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:75.4;Physics:74.9;CS:75.0
+Math:75.8;Physics:73.4;CS:75.0
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:76.0;Physics:74.5;CS:74.5
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:75.4;Physics:74.3;CS:74.1
+Math:75.4;Physics:74.3;CS:74.1
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+Math:75.5;Physics:74.3;CS:74.1
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+Math:75.5;Physics:74.3;CS:74.1
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:75.5;Physics:74.3;CS:74.1
+Math:75.6;Physics:73.5;CS:74.1
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_020, Name: Student_20, Email: student_20@imt.edu
+Math:75.1;Physics:73.2;CS:73.8
+Math:75.1;Physics:73.2;CS:73.8
+Math:75.1;Physics:73.2;CS:73.8
+Math:75.1;Physics:72.7;CS:73.8
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_025
+Math:75.5;Physics:72.7;CS:73.8
+Math:75.3;Physics:72.7;CS:73.8
+Math:75.3;Physics:72.7;CS:73.3
+IMT_2023_073,IMT_2023_043,IMT_2023_009,IMT_2023_010,IMT_2023_082,IMT_2023_025
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Student ID: IMT_2023_045, Name: Student_45, Email: student_45@imt.edu
+Student ID: IMT_2023_040, Name: Student_40, Email: student_40@imt.edu
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+Math:74.6;Physics:71.8;CS:74.5
+Student ID: IMT_2023_068, Name: Student_68, Email: student_68@imt.edu
+Student ID: IMT_2023_068, Name: Student_68, Email: student_68@imt.edu
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+IMT_2023_010
+Math:74.2;Physics:71.8;CS:74.0
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:74.2;Physics:71.8;CS:73.7
+Math:74.3;Physics:71.8;CS:73.7
+Student ID: IMT_2023_088, Name: Student_88, Email: student_88@imt.edu
+IMT_2023_010
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Student ID: IMT_2023_040, Name: Student_40, Email: student_40@imt.edu
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+IMT_2023_010
+IMT_2023_010
+Math:74.5;Physics:72.7;CS:73.0
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+Math:74.1;Physics:72.7;CS:73.0
+IMT_2023_010
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+Math:74.2;Physics:72.7;CS:73.0
+Math:74.2;Physics:72.7;CS:73.0
+Math:74.0;Physics:72.7;CS:73.0
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+Math:74.0;Physics:72.4;CS:73.1
+IMT_2023_010
+IMT_2023_010
+IMT_2023_010
+Math:74.4;Physics:72.4;CS:72.8
+Math:74.4;Physics:72.4;CS:72.8
+Math:74.4;Physics:72.4;CS:72.8
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:74.4;Physics:72.4;CS:72.8
+Math:75.3;Physics:72.4;CS:72.8
+IMT_2023_010
+Math:75.3;Physics:72.4;CS:72.8
+Math:74.9;Physics:72.4;CS:72.8
+IMT_2023_010
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+Math:74.9;Physics:72.4;CS:72.8
+IMT_2023_010
+IMT_2023_010
+Math:74.9;Physics:72.4;CS:72.8
+IMT_2023_010
+Math:74.9;Physics:72.4;CS:72.8
+IMT_2023_010
+Math:75.2;Physics:72.4;CS:72.4
+Math:75.2;Physics:72.4;CS:72.4
+IMT_2023_010
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+Math:74.8;Physics:72.4;CS:72.8
+Math:74.8;Physics:72.9;CS:72.8
+Math:74.5;Physics:72.9;CS:73.2
+IMT_2023_010,IMT_2023_082
+IMT_2023_010,IMT_2023_082
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+IMT_2023_010,IMT_2023_082
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+Math:74.5;Physics:72.9;CS:72.6
+IMT_2023_010,IMT_2023_082
+Math:75.0;Physics:73.5;CS:72.6
+IMT_2023_010,IMT_2023_082
+IMT_2023_010,IMT_2023_082
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+IMT_2023_010,IMT_2023_082
+Student ID: IMT_2023_008, Name: Student_8, Email: student_8@imt.edu
+Student ID: IMT_2023_096, Name: Student_96, Email: student_96@imt.edu
+Math:74.9;Physics:73.0;CS:72.0
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Math:73.9;Physics:72.7;CS:72.8
+IMT_2023_082
+IMT_2023_082
+IMT_2023_082
+Math:73.7;Physics:71.8;CS:72.8
+IMT_2023_082
+Math:73.7;Physics:71.8;CS:72.8
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+IMT_2023_082
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+Math:73.7;Physics:71.8;CS:72.7
+Student ID: IMT_2023_099, Name: Student_99, Email: student_99@imt.edu
+IMT_2023_082
+Student ID: IMT_2023_008, Name: Student_8, Email: student_8@imt.edu
+Math:73.6;Physics:72.5;CS:72.7
+IMT_2023_082
+IMT_2023_082
+IMT_2023_082
+Math:73.5;Physics:73.0;CS:73.0
+IMT_2023_082
+Student ID: IMT_2023_084, Name: Student_84, Email: student_84@imt.edu
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+IMT_2023_082
+Math:73.8;Physics:72.1;CS:72.5
+Math:74.0;Physics:72.1;CS:72.5
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+IMT_2023_082
+Math:74.0;Physics:72.1;CS:72.5
+IMT_2023_082
+Math:74.0;Physics:72.1;CS:72.5
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+IMT_2023_082
+IMT_2023_082
+IMT_2023_082
+IMT_2023_082
+Student ID: IMT_2023_007, Name: Student_7, Email: student_7@imt.edu
+Math:74.1;Physics:73.0;CS:72.8
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+Math:74.1;Physics:73.0;CS:73.1
+Math:74.0;Physics:73.5;CS:73.1
+Math:74.0;Physics:73.5;CS:73.1
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Math:74.0;Physics:73.5;CS:73.1
+Student ID: IMT_2023_052, Name: Student_52, Email: student_52@imt.edu
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+Student ID: IMT_2023_020, Name: Student_20, Email: student_20@imt.edu
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+Math:74.3;Physics:74.8;CS:73.1
+IMT_2023_082
+IMT_2023_082
+Math:74.6;Physics:74.8;CS:73.1
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+Math:74.6;Physics:74.8;CS:73.1
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+Math:74.6;Physics:74.8;CS:73.1
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Math:74.6;Physics:74.8;CS:72.6
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+IMT_2023_082
+Math:74.6;Physics:74.8;CS:72.6
+IMT_2023_082
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+IMT_2023_082
+IMT_2023_082
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Math:74.6;Physics:74.6;CS:72.6
+Math:74.6;Physics:74.6;CS:72.6
+Math:74.6;Physics:75.8;CS:72.6
+Math:74.6;Physics:75.8;CS:72.6
+IMT_2023_082
+Math:74.8;Physics:75.8;CS:72.6
+Student ID: IMT_2023_007, Name: Student_7, Email: student_7@imt.edu
+Math:74.8;Physics:74.9;CS:72.6
+Math:74.8;Physics:74.9;CS:72.7
+Math:74.8;Physics:74.9;CS:72.7
+Math:75.5;Physics:74.9;CS:72.9
+IMT_2023_082
+IMT_2023_082
+Math:75.5;Physics:74.3;CS:72.9
+IMT_2023_082
+IMT_2023_082
+IMT_2023_082
+Math:76.1;Physics:74.3;CS:72.3
+Student ID: IMT_2023_012, Name: Student_12, Email: student_12@imt.edu
+IMT_2023_082
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Math:75.4;Physics:74.3;CS:71.6
+Math:75.4;Physics:74.3;CS:71.8
+Math:75.4;Physics:74.3;CS:71.8
+Math:75.2;Physics:74.3;CS:71.7
+Math:75.2;Physics:74.3;CS:71.7
+Math:75.2;Physics:75.9;CS:70.9
+Math:75.2;Physics:75.9;CS:70.6
+Math:75.5;Physics:75.9;CS:70.6
+Math:75.5;Physics:75.9;CS:70.6
+Math:75.5;Physics:75.9;CS:70.6
+IMT_2023_082
+Math:75.5;Physics:76.6;CS:71.4
+Math:76.0;Physics:76.6;CS:71.9
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+Math:76.0;Physics:76.6;CS:71.4
+Student ID: IMT_2023_003, Name: Student_3, Email: student_3@imt.edu
+Math:76.0;Physics:76.6;CS:71.3
+Math:75.8;Physics:76.6;CS:71.3
+Math:75.8;Physics:76.6;CS:71.3
+Student ID: IMT_2023_074, Name: Student_74, Email: student_74@imt.edu
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Math:75.8;Physics:76.6;CS:71.3
+Math:76.0;Physics:76.6;CS:71.5
+Math:76.0;Physics:76.6;CS:71.6
+Math:76.0;Physics:76.6;CS:71.6
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+Math:76.0;Physics:76.6;CS:72.1
+IMT_2023_082
+Math:76.0;Physics:76.6;CS:72.1
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+Math:76.0;Physics:76.6;CS:72.3
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+Student ID: IMT_2023_062, Name: Student_62, Email: student_62@imt.edu
+IMT_2023_082
+IMT_2023_082
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Math:75.5;Physics:77.0;CS:72.3
+Math:76.2;Physics:77.7;CS:72.3
+IMT_2023_082
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+IMT_2023_082
+Math:76.2;Physics:78.0;CS:71.8
+Math:76.2;Physics:78.0;CS:72.0
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+IMT_2023_082
+Math:75.8;Physics:78.0;CS:72.0
+IMT_2023_082
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Math:75.5;Physics:78.0;CS:72.0
+Math:75.5;Physics:77.3;CS:72.0
+Math:75.5;Physics:77.3;CS:72.0
+IMT_2023_082
+Math:75.3;Physics:77.3;CS:72.3
+Math:75.3;Physics:77.8;CS:72.6
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+IMT_2023_069,IMT_2023_010,IMT_2023_082
+Student ID: IMT_2023_005, Name: Student_5, Email: student_5@imt.edu
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:75.7;Physics:77.9;CS:72.6
+IMT_2023_069,IMT_2023_010,IMT_2023_082
+Math:75.7;Physics:77.9;CS:72.6
+IMT_2023_069,IMT_2023_010,IMT_2023_082
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+IMT_2023_069,IMT_2023_010,IMT_2023_082
+IMT_2023_069,IMT_2023_010,IMT_2023_082
+Math:75.1;Physics:77.9;CS:72.5
+Math:75.1;Physics:77.9;CS:72.5
+Math:75.1;Physics:77.9;CS:72.6
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+Student ID: IMT_2023_088, Name: Student_88, Email: student_88@imt.edu
+Student ID: IMT_2023_059, Name: Student_59, Email: student_59@imt.edu
+IMT_2023_069,IMT_2023_082
+IMT_2023_069,IMT_2023_082
+Math:75.2;Physics:78.1;CS:73.5
+IMT_2023_069,IMT_2023_082
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+IMT_2023_069,IMT_2023_082
+IMT_2023_069,IMT_2023_082
+Math:75.2;Physics:77.3;CS:73.9
+Math:75.2;Physics:77.3;CS:73.9
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Math:76.1;Physics:77.0;CS:73.9
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Math:75.8;Physics:77.0;CS:73.9
+IMT_2023_069,IMT_2023_082
+IMT_2023_069,IMT_2023_082
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Math:75.7;Physics:76.6;CS:73.6
+Math:75.7;Physics:76.6;CS:73.6
+Math:75.4;Physics:76.5;CS:73.9
+Math:75.6;Physics:76.0;CS:73.9
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Math:75.6;Physics:76.0;CS:74.0
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+Math:76.2;Physics:76.0;CS:74.0
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Math:75.9;Physics:76.0;CS:74.0
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Math:75.8;Physics:76.2;CS:74.3
+Math:75.8;Physics:76.2;CS:74.3
+Math:75.8;Physics:76.2;CS:74.3
+Math:75.8;Physics:76.2;CS:74.3
+Math:75.8;Physics:76.9;CS:74.3
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Math:75.8;Physics:76.3;CS:74.3
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:75.8;Physics:76.3;CS:74.7
+Math:75.6;Physics:76.3;CS:74.5
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Math:75.3;Physics:76.3;CS:74.5
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Math:75.1;Physics:76.3;CS:74.5
+Math:75.1;Physics:76.3;CS:74.5
+Student ID: IMT_2023_099, Name: Student_99, Email: student_99@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Math:75.9;Physics:76.2;CS:74.5
+Math:75.9;Physics:76.2;CS:74.5
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+IMT_2023_013,IMT_2023_069,IMT_2023_082
+Math:76.4;Physics:76.4;CS:74.9
+Math:76.2;Physics:77.0;CS:74.9
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Math:76.2;Physics:77.0;CS:74.9
+Math:76.2;Physics:77.0;CS:75.2
+Math:76.2;Physics:76.3;CS:75.2
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Math:76.2;Physics:76.3;CS:75.2
+Student ID: IMT_2023_057, Name: Student_57, Email: student_57@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Math:76.2;Physics:76.6;CS:75.2
+Math:76.2;Physics:76.6;CS:75.2
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Math:76.2;Physics:76.6;CS:75.2
+Student ID: IMT_2023_093, Name: Student_93, Email: student_93@imt.edu
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Math:76.2;Physics:76.6;CS:75.1
+IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+Student ID: IMT_2023_002, Name: Student_2, Email: student_2@imt.edu
+IMT_2023_031,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Math:76.4;Physics:76.6;CS:75.1
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+Math:77.0;Physics:76.6;CS:74.7
+Math:77.0;Physics:76.6;CS:74.7
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+IMT_2023_031,IMT_2023_073,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:77.0;Physics:76.2;CS:74.7
+Student ID: IMT_2023_040, Name: Student_40, Email: student_40@imt.edu
+Math:77.0;Physics:76.2;CS:74.7
+IMT_2023_031,IMT_2023_073,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028
+Student ID: IMT_2023_093, Name: Student_93, Email: student_93@imt.edu
+Math:76.8;Physics:76.5;CS:74.2
+Math:76.8;Physics:76.5;CS:74.2
+Math:76.8;Physics:76.5;CS:74.2
+Math:76.8;Physics:76.8;CS:74.2
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Student ID: IMT_2023_092, Name: Student_92, Email: student_92@imt.edu
+Math:76.7;Physics:76.8;CS:73.8
+Math:77.3;Physics:76.8;CS:73.8
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Math:77.7;Physics:76.8;CS:73.8
+Student ID: IMT_2023_082, Name: Student_82, Email: student_82@imt.edu
+Math:77.7;Physics:76.8;CS:73.6
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Math:77.7;Physics:76.8;CS:73.6
+Math:77.7;Physics:76.8;CS:73.6
+Math:77.7;Physics:77.0;CS:73.4
+Math:77.7;Physics:76.9;CS:73.4
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Math:77.6;Physics:76.9;CS:73.6
+Math:77.6;Physics:76.9;CS:73.6
+Math:77.6;Physics:76.3;CS:73.9
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Math:77.9;Physics:76.3;CS:73.9
+Math:77.9;Physics:76.3;CS:73.9
+Math:77.9;Physics:75.7;CS:73.9
+Math:78.0;Physics:75.7;CS:73.9
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Math:77.9;Physics:75.7;CS:73.5
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+Math:78.0;Physics:75.7;CS:73.6
+Math:78.0;Physics:75.7;CS:73.6
+Math:77.7;Physics:75.7;CS:73.9
+Student ID: IMT_2023_099, Name: Student_99, Email: student_99@imt.edu
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Math:77.7;Physics:75.7;CS:73.9
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+Math:77.7;Physics:75.9;CS:73.9
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+IMT_2023_031,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Math:77.0;Physics:75.7;CS:73.4
+Math:77.0;Physics:75.7;CS:73.4
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086
+Student ID: IMT_2023_012, Name: Student_12, Email: student_12@imt.edu
+Math:76.9;Physics:75.3;CS:73.4
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+Math:76.7;Physics:75.3;CS:73.3
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+Math:77.1;Physics:75.3;CS:73.3
+Math:77.1;Physics:75.3;CS:73.3
+Math:77.1;Physics:75.1;CS:73.0
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.4;Physics:75.1;CS:73.4
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+Math:77.5;Physics:75.1;CS:73.3
+Math:77.3;Physics:74.4;CS:73.3
+Math:77.3;Physics:74.4;CS:73.1
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Math:77.3;Physics:73.6;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.3;Physics:74.3;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.1;Physics:74.6;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.1;Physics:74.6;CS:73.1
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.1;Physics:74.6;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+Student ID: IMT_2023_088, Name: Student_88, Email: student_88@imt.edu
+Math:77.1;Physics:74.6;CS:73.1
+Math:76.8;Physics:74.6;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_100,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:76.8;Physics:74.6;CS:73.3
+Math:76.8;Physics:74.6;CS:73.3
+Math:77.0;Physics:74.6;CS:73.3
+Math:77.0;Physics:74.6;CS:73.3
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+Math:77.0;Physics:74.6;CS:73.4
+Math:77.0;Physics:74.6;CS:73.4
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_045, Name: Student_45, Email: student_45@imt.edu
+Math:76.5;Physics:74.6;CS:73.4
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_002, Name: Student_2, Email: student_2@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_077, Name: Student_77, Email: student_77@imt.edu
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Math:76.7;Physics:74.6;CS:73.5
+Math:76.6;Physics:74.0;CS:73.2
+Math:76.6;Physics:74.0;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:76.4;Physics:74.0;CS:73.1
+Math:76.4;Physics:74.0;CS:73.1
+Math:76.4;Physics:74.0;CS:73.1
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:76.7;Physics:74.0;CS:73.2
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+Student ID: IMT_2023_021, Name: Student_21, Email: student_21@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.3;Physics:73.5;CS:73.5
+Math:77.3;Physics:73.5;CS:73.4
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+Math:77.2;Physics:73.5;CS:74.0
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+IMT_2023_031,IMT_2023_039,IMT_2023_073,IMT_2023_018,IMT_2023_032,IMT_2023_013,IMT_2023_009,IMT_2023_007,IMT_2023_069,IMT_2023_082,IMT_2023_028,IMT_2023_048,IMT_2023_099,IMT_2023_086,IMT_2023_050
+Math:77.2;Physics:73.5;CS:73.8
+Math:77.2;Physics:73.5;CS:74.0
+Math:77.2;Physics:73.5;CS:74.0
+Math:77.0;Physics:73.5;CS:74.0
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+Math:76.8;Physics:73.5;CS:73.9
+IMT_2023_007
+Math:76.8;Physics:73.5;CS:73.9
+Math:76.7;Physics:73.5;CS:73.9
+Math:76.8;Physics:74.1;CS:74.1
+IMT_2023_007
+Math:76.9;Physics:74.1;CS:74.3
+IMT_2023_007
+Math:77.0;Physics:74.2;CS:74.0
+IMT_2023_007
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+Math:77.1;Physics:74.2;CS:73.8
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+IMT_2023_007
+IMT_2023_007
+Math:77.1;Physics:74.2;CS:73.7
+Student ID: IMT_2023_096, Name: Student_96, Email: student_96@imt.edu
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Math:77.2;Physics:74.2;CS:73.7
+IMT_2023_007,IMT_2023_086
+Math:77.1;Physics:73.4;CS:73.8
+Math:76.8;Physics:73.4;CS:73.6
+IMT_2023_007,IMT_2023_086
+Math:76.8;Physics:73.4;CS:73.6
+Math:76.7;Physics:73.4;CS:73.8
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Math:76.8;Physics:73.9;CS:73.8
+Math:76.8;Physics:73.9;CS:73.8
+IMT_2023_007,IMT_2023_086
+Math:76.6;Physics:73.9;CS:73.2
+IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_099, Name: Student_99, Email: student_99@imt.edu
+IMT_2023_007,IMT_2023_086
+Math:76.6;Physics:73.9;CS:73.2
+Math:76.6;Physics:73.9;CS:73.2
+IMT_2023_007,IMT_2023_086
+Math:76.4;Physics:73.9;CS:73.2
+Math:76.4;Physics:73.9;CS:73.2
+IMT_2023_007,IMT_2023_086
+IMT_2023_007,IMT_2023_086
+IMT_2023_007,IMT_2023_086
+Math:76.4;Physics:74.3;CS:73.2
+Math:76.4;Physics:74.3;CS:73.0
+Math:76.4;Physics:74.3;CS:73.2
+IMT_2023_007,IMT_2023_086
+Math:76.4;Physics:74.3;CS:73.2
+Student ID: IMT_2023_026, Name: Student_26, Email: student_26@imt.edu
+Math:76.4;Physics:74.3;CS:73.4
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+Student ID: IMT_2023_091, Name: Student_91, Email: student_91@imt.edu
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+Math:76.4;Physics:74.5;CS:73.4
+Math:76.4;Physics:74.5;CS:73.4
+Math:76.7;Physics:74.5;CS:73.1
+Math:76.7;Physics:74.9;CS:73.1
+Math:76.7;Physics:74.9;CS:73.1
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Math:76.7;Physics:74.9;CS:73.1
+Math:76.7;Physics:74.9;CS:73.1
+Math:76.7;Physics:74.9;CS:73.7
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+IMT_2023_007,IMT_2023_086
+Math:76.7;Physics:74.9;CS:73.7
+Math:76.7;Physics:74.9;CS:73.7
+Math:76.7;Physics:74.9;CS:74.4
+IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:76.6;Physics:74.1;CS:74.4
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Math:76.6;Physics:73.1;CS:74.4
+Student ID: IMT_2023_024, Name: Student_24, Email: student_24@imt.edu
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+Math:76.4;Physics:73.2;CS:74.4
+IMT_2023_007,IMT_2023_086
+Math:76.5;Physics:73.4;CS:74.4
+IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Math:76.4;Physics:73.4;CS:74.0
+Math:76.4;Physics:73.4;CS:74.0
+Math:76.4;Physics:73.4;CS:74.0
+IMT_2023_007,IMT_2023_086
+Math:76.3;Physics:72.9;CS:73.9
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+IMT_2023_007,IMT_2023_086
+Math:76.0;Physics:72.1;CS:73.9
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Math:76.0;Physics:72.1;CS:73.9
+Math:75.9;Physics:72.1;CS:74.2
+Math:75.9;Physics:72.1;CS:74.2
+IMT_2023_007,IMT_2023_086
+IMT_2023_007,IMT_2023_086
+IMT_2023_007,IMT_2023_086
+Math:75.9;Physics:72.7;CS:74.8
+IMT_2023_007,IMT_2023_086
+Math:75.9;Physics:72.7;CS:74.8
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.9;Physics:73.3;CS:74.6
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.6;Physics:73.3;CS:74.4
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+Math:75.6;Physics:73.3;CS:74.4
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+Student ID: IMT_2023_010, Name: Student_10, Email: student_10@imt.edu
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Math:75.6;Physics:73.3;CS:74.4
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+Math:75.4;Physics:73.3;CS:74.3
+Math:75.4;Physics:73.3;CS:74.3
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.5;Physics:72.8;CS:74.5
+Student ID: IMT_2023_009, Name: Student_9, Email: student_9@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.5;Physics:72.8;CS:74.2
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.5;Physics:72.8;CS:74.2
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+Math:75.5;Physics:72.8;CS:73.8
+Math:75.5;Physics:72.6;CS:73.8
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+Math:75.5;Physics:72.6;CS:73.8
+Student ID: IMT_2023_088, Name: Student_88, Email: student_88@imt.edu
+Math:75.5;Physics:72.6;CS:73.9
+Math:75.5;Physics:72.6;CS:73.9
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+Math:75.5;Physics:72.6;CS:74.0
+Math:75.5;Physics:72.9;CS:74.0
+Math:75.4;Physics:72.9;CS:74.0
+Math:75.4;Physics:72.9;CS:74.0
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+Student ID: IMT_2023_093, Name: Student_93, Email: student_93@imt.edu
+Math:75.4;Physics:72.9;CS:74.0
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.7;Physics:72.6;CS:74.0
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.7;Physics:72.6;CS:74.0
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.7;Physics:72.6;CS:74.0
+Math:75.7;Physics:72.6;CS:74.0
+Math:75.7;Physics:72.6;CS:74.0
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Math:75.7;Physics:72.6;CS:74.0
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.3;Physics:72.6;CS:74.3
+Math:75.3;Physics:72.6;CS:74.3
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Math:75.3;Physics:72.0;CS:74.3
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+IMT_2023_073,IMT_2023_007,IMT_2023_086,IMT_2023_050
+Student ID: IMT_2023_055, Name: Student_55, Email: student_55@imt.edu
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:75.6;Physics:71.9;CS:74.1
+Math:75.6;Physics:71.9;CS:74.3
+Math:75.6;Physics:71.9;CS:74.4
+Math:75.6;Physics:71.9;CS:74.4
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.9;Physics:72.1;CS:74.2
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+Student ID: IMT_2023_019, Name: Student_19, Email: student_19@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.9;Physics:72.1;CS:74.2
+Math:75.9;Physics:72.6;CS:74.2
+Math:75.9;Physics:72.6;CS:74.2
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.9;Physics:72.6;CS:74.2
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_004, Name: Student_4, Email: student_4@imt.edu
+Math:75.9;Physics:72.6;CS:74.1
+Math:75.9;Physics:72.6;CS:74.1
+Math:75.9;Physics:72.6;CS:73.9
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.7;Physics:72.3;CS:74.1
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_012, Name: Student_12, Email: student_12@imt.edu
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:75.8;Physics:71.9;CS:74.1
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.8;Physics:71.9;CS:74.3
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:75.8;Physics:71.9;CS:74.7
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Math:75.8;Physics:71.9;CS:74.7
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.5;Physics:72.5;CS:74.7
+Math:75.5;Physics:72.5;CS:74.7
+Math:75.5;Physics:72.5;CS:74.7
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+Math:75.7;Physics:72.5;CS:74.7
+Student ID: IMT_2023_033, Name: Student_33, Email: student_33@imt.edu
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_008, Name: Student_8, Email: student_8@imt.edu
+Math:75.1;Physics:72.5;CS:74.6
+Math:75.2;Physics:72.5;CS:74.6
+Math:74.8;Physics:72.5;CS:74.6
+Math:74.8;Physics:72.5;CS:74.6
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.8;Physics:72.5;CS:74.6
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+Math:74.4;Physics:72.5;CS:74.6
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Math:74.4;Physics:72.5;CS:74.6
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+Math:74.4;Physics:72.5;CS:74.6
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+Math:74.5;Physics:72.5;CS:74.6
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Math:74.5;Physics:72.5;CS:74.6
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+Math:74.7;Physics:72.5;CS:74.6
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.7;Physics:72.5;CS:74.6
+Math:75.0;Physics:72.5;CS:74.6
+Math:75.0;Physics:72.5;CS:74.6
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+Math:75.1;Physics:72.5;CS:74.6
+Math:75.1;Physics:72.5;CS:74.6
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.1;Physics:72.5;CS:74.6
+Math:75.1;Physics:72.5;CS:74.6
+Math:75.1;Physics:72.5;CS:74.6
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:75.1;Physics:72.5;CS:74.6
+Student ID: IMT_2023_074, Name: Student_74, Email: student_74@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.3;Physics:72.3;CS:74.8
+Math:75.3;Physics:72.3;CS:74.8
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Math:75.3;Physics:72.3;CS:74.8
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.4;Physics:72.3;CS:74.8
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.4;Physics:72.3;CS:74.8
+Student ID: IMT_2023_020, Name: Student_20, Email: student_20@imt.edu
+Math:75.4;Physics:72.3;CS:74.8
+Student ID: IMT_2023_029, Name: Student_29, Email: student_29@imt.edu
+Math:75.4;Physics:72.0;CS:74.8
+Math:75.5;Physics:72.0;CS:74.8
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Math:75.4;Physics:72.7;CS:74.8
+Student ID: IMT_2023_004, Name: Student_4, Email: student_4@imt.edu
+Math:75.4;Physics:72.7;CS:74.8
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.4;Physics:72.7;CS:74.8
+Student ID: IMT_2023_057, Name: Student_57, Email: student_57@imt.edu
+Math:75.4;Physics:72.7;CS:75.0
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:75.4;Physics:72.7;CS:74.8
+Math:75.4;Physics:72.7;CS:74.9
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_092, Name: Student_92, Email: student_92@imt.edu
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.2;Physics:73.2;CS:74.5
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.2;Physics:73.2;CS:74.5
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+Math:75.0;Physics:73.1;CS:74.4
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.1;Physics:73.1;CS:74.3
+Math:75.1;Physics:73.1;CS:74.3
+Math:75.1;Physics:73.2;CS:74.3
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.1;Physics:73.2;CS:74.2
+Student ID: IMT_2023_096, Name: Student_96, Email: student_96@imt.edu
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Student ID: IMT_2023_091, Name: Student_91, Email: student_91@imt.edu
+Math:75.1;Physics:73.2;CS:74.2
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+Math:75.1;Physics:73.2;CS:74.2
+Math:75.1;Physics:73.2;CS:74.2
+Student ID: IMT_2023_007, Name: Student_7, Email: student_7@imt.edu
+Math:75.1;Physics:73.2;CS:74.1
+Math:75.1;Physics:72.9;CS:74.0
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Math:75.1;Physics:73.1;CS:74.0
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Math:74.9;Physics:73.1;CS:74.0
+Student ID: IMT_2023_021, Name: Student_21, Email: student_21@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.9;Physics:73.5;CS:74.5
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_033, Name: Student_33, Email: student_33@imt.edu
+Math:74.7;Physics:73.5;CS:74.5
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+Math:74.8;Physics:73.7;CS:74.8
+Math:74.8;Physics:73.7;CS:74.8
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.8;Physics:73.7;CS:74.8
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_068, Name: Student_68, Email: student_68@imt.edu
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_080, Name: Student_80, Email: student_80@imt.edu
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+Student ID: IMT_2023_081, Name: Student_81, Email: student_81@imt.edu
+Math:74.9;Physics:73.3;CS:74.6
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+Math:74.7;Physics:73.7;CS:74.8
+Math:74.7;Physics:73.7;CS:74.8
+Math:74.7;Physics:73.7;CS:74.7
+Math:74.6;Physics:73.7;CS:74.7
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.7;Physics:73.7;CS:74.7
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.7;Physics:73.7;CS:74.7
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+Math:74.6;Physics:73.7;CS:74.7
+Student ID: IMT_2023_024, Name: Student_24, Email: student_24@imt.edu
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Student ID: IMT_2023_062, Name: Student_62, Email: student_62@imt.edu
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.4;Physics:74.4;CS:74.6
+Math:74.4;Physics:74.4;CS:74.6
+Math:74.4;Physics:74.4;CS:74.6
+Math:74.4;Physics:74.4;CS:74.6
+Math:74.4;Physics:74.4;CS:74.6
+Math:74.4;Physics:74.4;CS:74.7
+Math:74.2;Physics:74.4;CS:74.7
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.5;Physics:74.4;CS:74.7
+Math:74.5;Physics:74.1;CS:75.0
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.4;Physics:74.0;CS:74.9
+Math:74.4;Physics:74.6;CS:74.9
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+Student ID: IMT_2023_010, Name: Student_10, Email: student_10@imt.edu
+Math:74.4;Physics:74.6;CS:74.9
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.4;Physics:74.6;CS:75.1
+Student ID: IMT_2023_044, Name: Student_44, Email: student_44@imt.edu
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+IMT_2023_085,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.4;Physics:74.6;CS:75.1
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+Math:74.4;Physics:74.6;CS:75.2
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.3;Physics:74.6;CS:75.2
+Math:74.3;Physics:74.6;CS:74.9
+Student ID: IMT_2023_092, Name: Student_92, Email: student_92@imt.edu
+Math:74.5;Physics:74.6;CS:74.6
+Math:74.5;Physics:74.6;CS:74.6
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_055, Name: Student_55, Email: student_55@imt.edu
+Student ID: IMT_2023_059, Name: Student_59, Email: student_59@imt.edu
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+Math:74.5;Physics:74.6;CS:74.6
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.6;Physics:74.6;CS:75.0
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+Math:74.6;Physics:74.6;CS:75.0
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+Math:74.5;Physics:74.6;CS:75.0
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.2;Physics:74.6;CS:75.3
+Math:74.1;Physics:74.6;CS:75.4
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:74.4;Physics:74.6;CS:75.4
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Student ID: IMT_2023_045, Name: Student_45, Email: student_45@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+Math:75.4;Physics:74.6;CS:74.8
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:75.8;Physics:75.1;CS:74.9
+Math:75.8;Physics:75.1;CS:74.9
+Math:75.8;Physics:75.3;CS:74.9
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Math:75.9;Physics:75.3;CS:74.7
+Math:75.9;Physics:75.3;CS:74.8
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Math:75.9;Physics:74.7;CS:74.8
+Math:75.9;Physics:74.7;CS:74.8
+Math:75.9;Physics:74.7;CS:74.8
+Math:75.9;Physics:74.7;CS:74.8
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Math:75.9;Physics:75.2;CS:74.8
+Math:76.1;Physics:75.0;CS:74.9
+IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:76.1;Physics:75.0;CS:74.7
+Math:76.1;Physics:75.0;CS:74.7
+Math:76.1;Physics:75.0;CS:74.7
+Math:76.0;Physics:75.0;CS:74.7
+Math:76.0;Physics:75.0;CS:74.7
+Math:76.2;Physics:75.2;CS:74.8
+IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:76.2;Physics:75.2;CS:74.8
+Math:76.2;Physics:75.2;CS:74.6
+Student ID: IMT_2023_092, Name: Student_92, Email: student_92@imt.edu
+Math:76.3;Physics:75.2;CS:74.7
+Math:76.3;Physics:75.2;CS:74.7
+Math:76.3;Physics:75.2;CS:74.7
+IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+Math:76.4;Physics:75.2;CS:74.5
+IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Math:76.5;Physics:75.2;CS:74.7
+Student ID: IMT_2023_007, Name: Student_7, Email: student_7@imt.edu
+IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:76.4;Physics:75.5;CS:74.9
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:76.4;Physics:75.9;CS:74.9
+Math:76.4;Physics:75.9;CS:74.8
+Math:76.4;Physics:75.9;CS:74.8
+Math:76.3;Physics:75.9;CS:74.8
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:76.3;Physics:75.9;CS:74.5
+Math:76.3;Physics:75.9;CS:74.5
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Math:76.3;Physics:75.9;CS:74.5
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_073,IMT_2023_007,IMT_2023_086
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Math:76.3;Physics:76.3;CS:74.3
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+Math:76.3;Physics:76.3;CS:74.3
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Math:76.3;Physics:76.5;CS:74.5
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+Math:76.5;Physics:76.4;CS:74.2
+Math:76.4;Physics:76.4;CS:74.2
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+Student ID: IMT_2023_084, Name: Student_84, Email: student_84@imt.edu
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+Math:76.4;Physics:76.4;CS:74.4
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Student ID: IMT_2023_024, Name: Student_24, Email: student_24@imt.edu
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Math:76.4;Physics:76.4;CS:73.9
+Math:76.4;Physics:76.4;CS:73.9
+Math:76.6;Physics:76.1;CS:73.9
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Math:76.9;Physics:76.1;CS:73.9
+Math:76.9;Physics:76.1;CS:73.9
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+Student ID: IMT_2023_099, Name: Student_99, Email: student_99@imt.edu
+Math:76.9;Physics:75.1;CS:74.3
+Math:76.9;Physics:75.1;CS:74.3
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Student ID: IMT_2023_008, Name: Student_8, Email: student_8@imt.edu
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Math:76.9;Physics:75.1;CS:74.3
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Math:76.9;Physics:75.1;CS:74.3
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+Math:76.7;Physics:75.1;CS:74.2
+Math:76.7;Physics:75.1;CS:74.2
+Student ID: IMT_2023_074, Name: Student_74, Email: student_74@imt.edu
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+Math:76.4;Physics:75.0;CS:74.6
+Math:76.4;Physics:74.8;CS:74.6
+Student ID: IMT_2023_068, Name: Student_68, Email: student_68@imt.edu
+Math:76.4;Physics:74.8;CS:74.6
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:76.4;Physics:74.8;CS:74.6
+Math:76.6;Physics:74.8;CS:74.6
+Math:76.6;Physics:74.8;CS:74.6
+Math:76.6;Physics:74.8;CS:74.6
+Student ID: IMT_2023_044, Name: Student_44, Email: student_44@imt.edu
+Math:76.6;Physics:74.8;CS:74.8
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Math:76.6;Physics:74.8;CS:74.6
+Student ID: IMT_2023_026, Name: Student_26, Email: student_26@imt.edu
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+Math:76.3;Physics:74.5;CS:74.6
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050
+Math:76.3;Physics:74.1;CS:74.4
+Math:76.1;Physics:74.1;CS:74.4
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+Math:76.3;Physics:73.8;CS:74.4
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.3;Physics:73.8;CS:74.4
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+Math:76.5;Physics:73.8;CS:74.4
+Student ID: IMT_2023_052, Name: Student_52, Email: student_52@imt.edu
+Math:76.3;Physics:73.8;CS:74.4
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Math:76.3;Physics:73.8;CS:74.4
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Math:76.1;Physics:73.8;CS:74.9
+Math:76.1;Physics:73.8;CS:74.9
+Math:76.1;Physics:73.8;CS:74.9
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+Student ID: IMT_2023_021, Name: Student_21, Email: student_21@imt.edu
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Math:76.1;Physics:73.8;CS:74.9
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.1;Physics:73.8;CS:74.9
+Math:76.1;Physics:73.8;CS:74.9
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.6;Physics:72.9;CS:74.5
+Math:76.6;Physics:72.9;CS:74.5
+Math:76.6;Physics:72.9;CS:74.5
+Student ID: IMT_2023_068, Name: Student_68, Email: student_68@imt.edu
+Math:76.6;Physics:73.2;CS:74.5
+Math:76.6;Physics:73.2;CS:74.5
+Math:76.6;Physics:73.2;CS:74.5
+Math:76.6;Physics:73.2;CS:74.5
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+Math:76.6;Physics:73.2;CS:74.5
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.6;Physics:73.2;CS:74.5
+Student ID: IMT_2023_028, Name: Student_28, Email: student_28@imt.edu
+Math:76.6;Physics:73.2;CS:74.5
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.6;Physics:73.2;CS:74.5
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.6;Physics:73.2;CS:74.5
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Math:76.7;Physics:73.2;CS:74.5
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Math:76.4;Physics:73.2;CS:73.9
+Math:76.4;Physics:73.2;CS:73.9
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.4;Physics:73.2;CS:73.9
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.4;Physics:73.1;CS:73.9
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:76.1;Physics:73.1;CS:73.9
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+Math:75.9;Physics:73.1;CS:73.9
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:75.8;Physics:73.1;CS:73.9
+Math:75.8;Physics:73.1;CS:73.9
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:75.8;Physics:73.1;CS:73.7
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_050,IMT_2023_030
+Math:75.8;Physics:73.1;CS:73.7
+Math:75.8;Physics:73.1;CS:73.7
+Math:75.8;Physics:73.1;CS:73.7
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+Math:75.8;Physics:73.1;CS:73.7
+Math:75.8;Physics:73.1;CS:73.7
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+Math:75.7;Physics:73.1;CS:74.1
+Math:75.8;Physics:72.8;CS:74.1
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Math:75.7;Physics:72.8;CS:73.8
+Math:75.7;Physics:72.8;CS:73.8
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Math:75.6;Physics:72.8;CS:73.5
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Math:75.8;Physics:72.9;CS:73.3
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_044, Name: Student_44, Email: student_44@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Math:75.3;Physics:73.0;CS:73.3
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030
+Student ID: IMT_2023_057, Name: Student_57, Email: student_57@imt.edu
+Math:75.3;Physics:73.0;CS:73.5
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_074, Name: Student_74, Email: student_74@imt.edu
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030,IMT_2023_020
+Math:75.3;Physics:72.9;CS:73.7
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030,IMT_2023_020
+Math:75.1;Physics:72.9;CS:74.0
+Student ID: IMT_2023_084, Name: Student_84, Email: student_84@imt.edu
+Math:75.1;Physics:72.9;CS:74.0
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Math:74.9;Physics:72.6;CS:74.0
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Student ID: IMT_2023_012, Name: Student_12, Email: student_12@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Student ID: IMT_2023_038, Name: Student_38, Email: student_38@imt.edu
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_038, Name: Student_38, Email: student_38@imt.edu
+Student ID: IMT_2023_071, Name: Student_71, Email: student_71@imt.edu
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+Math:74.9;Physics:72.6;CS:74.2
+Student ID: IMT_2023_059, Name: Student_59, Email: student_59@imt.edu
+Math:74.9;Physics:72.6;CS:74.2
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Math:75.5;Physics:72.4;CS:73.7
+Math:75.5;Physics:72.4;CS:73.7
+Math:75.3;Physics:72.8;CS:73.5
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Student ID: IMT_2023_038, Name: Student_38, Email: student_38@imt.edu
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.5;Physics:72.4;CS:73.5
+Student ID: IMT_2023_088, Name: Student_88, Email: student_88@imt.edu
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:72.4;CS:73.5
+Math:75.4;Physics:72.4;CS:73.5
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+Math:75.4;Physics:72.4;CS:73.5
+Math:75.4;Physics:72.4;CS:73.5
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+Math:75.3;Physics:72.5;CS:73.6
+Math:75.3;Physics:72.5;CS:73.6
+Math:75.3;Physics:72.8;CS:73.6
+Math:75.3;Physics:72.8;CS:73.6
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.3;Physics:72.8;CS:73.6
+Math:75.3;Physics:72.8;CS:73.8
+Math:75.3;Physics:72.8;CS:73.8
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Math:75.3;Physics:72.8;CS:73.9
+Math:75.3;Physics:72.8;CS:73.9
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.3;Physics:72.8;CS:73.9
+IMT_2023_088,IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.7;Physics:72.5;CS:73.8
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.7;Physics:72.5;CS:73.9
+Math:75.8;Physics:72.5;CS:73.9
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Student ID: IMT_2023_003, Name: Student_3, Email: student_3@imt.edu
+Math:75.8;Physics:72.4;CS:73.9
+Student ID: IMT_2023_081, Name: Student_81, Email: student_81@imt.edu
+Math:76.4;Physics:72.4;CS:73.9
+Math:76.4;Physics:72.4;CS:73.9
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+Math:76.4;Physics:72.4;CS:73.9
+Math:76.4;Physics:72.4;CS:73.9
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:76.6;Physics:72.4;CS:74.0
+Math:76.6;Physics:72.4;CS:74.0
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Math:76.6;Physics:72.4;CS:74.0
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:76.6;Physics:72.4;CS:74.0
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+Math:76.4;Physics:72.3;CS:73.9
+Student ID: IMT_2023_044, Name: Student_44, Email: student_44@imt.edu
+Math:75.9;Physics:72.3;CS:73.9
+Math:75.9;Physics:72.3;CS:73.9
+Math:75.9;Physics:72.3;CS:73.9
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_007, Name: Student_7, Email: student_7@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:76.1;Physics:72.0;CS:74.1
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+Math:76.1;Physics:72.8;CS:73.0
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:76.1;Physics:72.6;CS:73.1
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Math:76.1;Physics:72.6;CS:73.0
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:76.1;Physics:72.6;CS:73.0
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:76.2;Physics:73.3;CS:73.1
+Math:76.2;Physics:73.3;CS:73.1
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Math:75.4;Physics:73.2;CS:73.1
+Math:75.4;Physics:73.2;CS:73.1
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:73.1;CS:73.1
+Math:75.4;Physics:73.1;CS:73.1
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:73.1;CS:73.1
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:73.1;CS:72.7
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+Math:75.4;Physics:72.7;CS:73.0
+Math:75.4;Physics:72.7;CS:73.0
+Math:75.2;Physics:72.7;CS:73.0
+Math:75.2;Physics:72.7;CS:73.0
+Math:75.2;Physics:72.7;CS:73.0
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+Math:74.9;Physics:72.3;CS:73.2
+Math:74.9;Physics:72.3;CS:73.2
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_033, Name: Student_33, Email: student_33@imt.edu
+Math:74.9;Physics:72.3;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.0;Physics:72.6;CS:73.4
+Math:75.2;Physics:72.6;CS:73.4
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.2;Physics:72.8;CS:73.6
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:75.0;Physics:72.8;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.3;Physics:73.7;CS:73.8
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.3;Physics:73.7;CS:73.8
+Math:75.3;Physics:73.7;CS:73.8
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+Student ID: IMT_2023_055, Name: Student_55, Email: student_55@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Math:75.4;Physics:74.6;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:74.6;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:74.6;CS:73.4
+Math:75.4;Physics:74.6;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:74.6;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.4;Physics:74.9;CS:73.4
+Math:75.4;Physics:74.9;CS:73.4
+Math:75.4;Physics:74.9;CS:73.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.2;Physics:75.2;CS:73.4
+Math:75.2;Physics:75.2;CS:73.4
+Math:75.2;Physics:75.2;CS:73.4
+Math:75.2;Physics:75.2;CS:73.4
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Student ID: IMT_2023_059, Name: Student_59, Email: student_59@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_062, Name: Student_62, Email: student_62@imt.edu
+Math:75.0;Physics:75.2;CS:73.3
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.0;Physics:75.2;CS:73.3
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:74.8;Physics:75.2;CS:73.3
+Math:74.8;Physics:75.2;CS:73.3
+Math:74.8;Physics:75.2;CS:73.6
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Math:74.8;Physics:75.2;CS:73.9
+Student ID: IMT_2023_086, Name: Student_86, Email: student_86@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:75.0;Physics:75.2;CS:73.9
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:75.1;Physics:75.2;CS:74.1
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Math:75.2;Physics:75.2;CS:74.1
+Math:75.2;Physics:75.2;CS:74.1
+Math:75.2;Physics:75.2;CS:74.2
+Student ID: IMT_2023_007, Name: Student_7, Email: student_7@imt.edu
+Math:75.0;Physics:74.9;CS:74.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.7;Physics:74.9;CS:74.4
+Math:74.7;Physics:74.9;CS:74.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.7;Physics:74.9;CS:74.4
+Student ID: IMT_2023_042, Name: Student_42, Email: student_42@imt.edu
+Math:74.7;Physics:74.6;CS:74.3
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+Math:74.7;Physics:74.6;CS:74.3
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.7;Physics:74.6;CS:74.3
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+Student ID: IMT_2023_091, Name: Student_91, Email: student_91@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.2;Physics:75.3;CS:74.3
+Math:74.2;Physics:75.3;CS:74.4
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+Math:74.2;Physics:75.3;CS:74.4
+Math:74.2;Physics:75.3;CS:74.4
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.2;Physics:75.3;CS:74.5
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Student ID: IMT_2023_024, Name: Student_24, Email: student_24@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_019, Name: Student_19, Email: student_19@imt.edu
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_055, Name: Student_55, Email: student_55@imt.edu
+Math:74.1;Physics:75.3;CS:74.5
+Student ID: IMT_2023_082, Name: Student_82, Email: student_82@imt.edu
+Math:74.1;Physics:75.3;CS:74.5
+Math:74.1;Physics:75.3;CS:74.5
+Student ID: IMT_2023_020, Name: Student_20, Email: student_20@imt.edu
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Student ID: IMT_2023_010, Name: Student_10, Email: student_10@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.1;Physics:75.3;CS:74.4
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020
+Math:74.6;Physics:75.2;CS:74.4
+Student ID: IMT_2023_087, Name: Student_87, Email: student_87@imt.edu
+Student ID: IMT_2023_088, Name: Student_88, Email: student_88@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:74.8;Physics:75.2;CS:74.4
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Math:74.8;Physics:75.2;CS:74.4
+Math:75.1;Physics:75.2;CS:74.2
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:75.1;Physics:75.2;CS:74.5
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:74.9;Physics:75.2;CS:74.5
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:74.9;Physics:75.2;CS:74.5
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_095,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:75.1;Physics:75.2;CS:74.7
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:75.0;Physics:75.2;CS:74.7
+Student ID: IMT_2023_092, Name: Student_92, Email: student_92@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:75.0;Physics:75.6;CS:74.7
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_092,IMT_2023_030,IMT_2023_020,IMT_2023_086
+Math:75.0;Physics:75.6;CS:74.7
+Math:75.1;Physics:75.8;CS:74.7
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.1;Physics:75.8;CS:74.7
+Math:75.1;Physics:75.8;CS:74.7
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.1;Physics:75.8;CS:74.7
+Math:75.0;Physics:75.8;CS:74.7
+Student ID: IMT_2023_017, Name: Student_17, Email: student_17@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.0;Physics:75.8;CS:74.9
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+Math:74.9;Physics:75.8;CS:74.9
+Student ID: IMT_2023_019, Name: Student_19, Email: student_19@imt.edu
+Math:74.9;Physics:75.8;CS:74.9
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_091,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Student ID: IMT_2023_028, Name: Student_28, Email: student_28@imt.edu
+Math:75.1;Physics:75.6;CS:75.1
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.2;Physics:75.6;CS:75.4
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+Math:75.3;Physics:75.6;CS:75.4
+Math:75.3;Physics:75.6;CS:75.4
+Math:75.3;Physics:75.6;CS:75.4
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030,IMT_2023_020
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_084,IMT_2023_030
+Math:75.3;Physics:75.6;CS:75.4
+Math:75.3;Physics:75.6;CS:75.4
+Math:75.3;Physics:75.6;CS:75.4
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Math:75.6;Physics:75.6;CS:75.3
+Student ID: IMT_2023_075, Name: Student_75, Email: student_75@imt.edu
+Student ID: IMT_2023_084, Name: Student_84, Email: student_84@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+IMT_2023_018,IMT_2023_026,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.6;Physics:75.4;CS:75.2
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.5;Physics:75.4;CS:75.2
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Math:75.5;Physics:75.2;CS:75.2
+Math:75.5;Physics:75.2;CS:75.2
+Math:75.5;Physics:75.2;CS:75.2
+Math:75.5;Physics:75.2;CS:75.2
+Student ID: IMT_2023_054, Name: Student_54, Email: student_54@imt.edu
+Math:75.5;Physics:75.2;CS:75.2
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_009, Name: Student_9, Email: student_9@imt.edu
+Math:75.5;Physics:75.2;CS:75.6
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_040, Name: Student_40, Email: student_40@imt.edu
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_052, Name: Student_52, Email: student_52@imt.edu
+Math:75.3;Physics:75.6;CS:75.7
+Student ID: IMT_2023_091, Name: Student_91, Email: student_91@imt.edu
+Math:75.3;Physics:75.6;CS:75.6
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.5;Physics:75.6;CS:75.7
+Student ID: IMT_2023_010, Name: Student_10, Email: student_10@imt.edu
+Math:75.5;Physics:75.6;CS:75.7
+Math:75.6;Physics:75.6;CS:75.9
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.6;Physics:75.9;CS:75.9
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.6;Physics:76.1;CS:75.9
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.6;Physics:76.1;CS:75.7
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_020, Name: Student_20, Email: student_20@imt.edu
+IMT_2023_018,IMT_2023_026,IMT_2023_072,IMT_2023_087,IMT_2023_028,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.4;Physics:76.1;CS:75.3
+Math:75.5;Physics:76.1;CS:75.3
+Math:75.5;Physics:76.1;CS:75.3
+Math:75.5;Physics:76.1;CS:75.5
+Math:75.5;Physics:76.1;CS:75.5
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.5;Physics:76.3;CS:75.6
+Math:75.5;Physics:76.3;CS:75.6
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Student ID: IMT_2023_017, Name: Student_17, Email: student_17@imt.edu
+Math:75.0;Physics:76.5;CS:75.7
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+Math:75.0;Physics:76.5;CS:75.7
+Student ID: IMT_2023_012, Name: Student_12, Email: student_12@imt.edu
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+Math:75.0;Physics:76.5;CS:75.7
+Math:75.0;Physics:77.0;CS:75.7
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.0;Physics:77.5;CS:75.5
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Student ID: IMT_2023_002, Name: Student_2, Email: student_2@imt.edu
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+Student ID: IMT_2023_081, Name: Student_81, Email: student_81@imt.edu
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+Math:75.1;Physics:77.5;CS:75.7
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:74.9;Physics:77.5;CS:75.7
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_097, Name: Student_97, Email: student_97@imt.edu
+Math:74.9;Physics:77.5;CS:75.8
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Student ID: IMT_2023_009, Name: Student_9, Email: student_9@imt.edu
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.0;Physics:77.5;CS:75.9
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:75.0;Physics:78.2;CS:75.9
+Math:75.0;Physics:78.2;CS:75.9
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Student ID: IMT_2023_044, Name: Student_44, Email: student_44@imt.edu
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_030
+Math:75.0;Physics:78.2;CS:75.9
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+Math:74.9;Physics:78.2;CS:75.7
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Math:74.9;Physics:78.1;CS:75.5
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:75.0;Physics:78.1;CS:75.3
+Math:75.0;Physics:78.1;CS:75.3
+IMT_2023_018,IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_064,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:75.0;Physics:78.1;CS:75.3
+Math:75.1;Physics:78.1;CS:75.3
+Math:75.1;Physics:78.1;CS:75.3
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Student ID: IMT_2023_082, Name: Student_82, Email: student_82@imt.edu
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Math:74.8;Physics:77.9;CS:75.1
+Math:74.9;Physics:77.9;CS:75.1
+Math:74.9;Physics:77.9;CS:75.2
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:74.7;Physics:77.7;CS:75.2
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Student ID: IMT_2023_002, Name: Student_2, Email: student_2@imt.edu
+Math:74.7;Physics:77.7;CS:75.3
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:74.7;Physics:77.7;CS:75.0
+Student ID: IMT_2023_029, Name: Student_29, Email: student_29@imt.edu
+Math:74.6;Physics:77.7;CS:75.0
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+Math:74.5;Physics:77.7;CS:75.0
+Student ID: IMT_2023_062, Name: Student_62, Email: student_62@imt.edu
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+Math:74.5;Physics:77.7;CS:74.9
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Student ID: IMT_2023_005, Name: Student_5, Email: student_5@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:74.5;Physics:77.5;CS:74.9
+Math:74.5;Physics:77.5;CS:74.9
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Student ID: IMT_2023_067, Name: Student_67, Email: student_67@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:74.5;Physics:77.5;CS:74.7
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Student ID: IMT_2023_064, Name: Student_64, Email: student_64@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Math:74.5;Physics:77.1;CS:74.6
+Math:74.5;Physics:77.1;CS:74.6
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_080,IMT_2023_006,IMT_2023_030
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Math:74.4;Physics:77.1;CS:74.9
+Math:74.3;Physics:77.1;CS:74.9
+Math:74.5;Physics:77.1;CS:74.9
+Math:74.5;Physics:77.1;CS:75.1
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_030
+Math:74.5;Physics:77.1;CS:75.1
+Math:74.5;Physics:77.1;CS:75.1
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_030
+Student ID: IMT_2023_077, Name: Student_77, Email: student_77@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Math:74.5;Physics:76.5;CS:74.6
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Student ID: IMT_2023_082, Name: Student_82, Email: student_82@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Math:74.4;Physics:76.5;CS:74.6
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Math:74.4;Physics:76.3;CS:74.6
+Math:74.4;Physics:76.3;CS:74.6
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Student ID: IMT_2023_090, Name: Student_90, Email: student_90@imt.edu
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Math:74.3;Physics:76.6;CS:75.1
+Math:74.3;Physics:76.6;CS:75.1
+Math:74.2;Physics:76.6;CS:75.1
+Math:74.3;Physics:76.8;CS:75.1
+Math:74.3;Physics:76.8;CS:75.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+Math:74.1;Physics:76.6;CS:75.5
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Math:74.0;Physics:76.6;CS:75.4
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Math:74.3;Physics:76.6;CS:75.4
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Student ID: IMT_2023_076, Name: Student_76, Email: student_76@imt.edu
+Student ID: IMT_2023_004, Name: Student_4, Email: student_4@imt.edu
+Math:74.3;Physics:76.6;CS:75.4
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_030
+Student ID: IMT_2023_046, Name: Student_46, Email: student_46@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+Math:74.5;Physics:76.6;CS:74.8
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_098, Name: Student_98, Email: student_98@imt.edu
+Math:74.3;Physics:77.0;CS:74.7
+Math:74.3;Physics:77.0;CS:74.3
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Math:74.3;Physics:77.0;CS:74.3
+Student ID: IMT_2023_048, Name: Student_48, Email: student_48@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Math:74.3;Physics:77.0;CS:74.3
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Math:74.3;Physics:77.0;CS:74.3
+Math:74.3;Physics:77.0;CS:74.3
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+Math:74.1;Physics:77.0;CS:73.8
+Math:74.1;Physics:77.0;CS:73.8
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Math:74.1;Physics:76.8;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Math:74.1;Physics:76.8;CS:74.1
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Math:74.5;Physics:76.8;CS:74.4
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Math:74.7;Physics:76.8;CS:74.4
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_084,IMT_2023_030
+Math:74.7;Physics:76.8;CS:74.4
+Math:74.7;Physics:76.8;CS:74.3
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+Math:74.7;Physics:76.8;CS:74.3
+Math:74.7;Physics:76.8;CS:74.3
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_019, Name: Student_19, Email: student_19@imt.edu
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_032,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+Math:75.2;Physics:76.4;CS:74.4
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+Math:74.9;Physics:76.5;CS:74.1
+Math:74.7;Physics:76.5;CS:73.9
+Math:74.7;Physics:76.5;CS:73.9
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_036, Name: Student_36, Email: student_36@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_058, Name: Student_58, Email: student_58@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.2;Physics:76.2;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_021, Name: Student_21, Email: student_21@imt.edu
+Math:74.3;Physics:76.2;CS:74.3
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.4;Physics:76.5;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Math:74.7;Physics:76.5;CS:74.1
+Student ID: IMT_2023_017, Name: Student_17, Email: student_17@imt.edu
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.7;Physics:76.5;CS:74.1
+Math:74.7;Physics:76.5;CS:74.1
+Student ID: IMT_2023_038, Name: Student_38, Email: student_38@imt.edu
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+Student ID: IMT_2023_066, Name: Student_66, Email: student_66@imt.edu
+Math:75.1;Physics:76.5;CS:74.1
+Math:75.1;Physics:76.5;CS:74.1
+Student ID: IMT_2023_093, Name: Student_93, Email: student_93@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.0;Physics:76.5;CS:74.1
+Math:75.0;Physics:76.5;CS:74.1
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Math:74.8;Physics:76.5;CS:74.2
+Math:74.8;Physics:76.5;CS:74.2
+Student ID: IMT_2023_056, Name: Student_56, Email: student_56@imt.edu
+Math:74.8;Physics:76.5;CS:74.2
+Math:74.8;Physics:76.3;CS:74.2
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Math:74.9;Physics:76.2;CS:74.2
+Math:74.9;Physics:76.2;CS:74.2
+Math:74.9;Physics:76.2;CS:74.1
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+Math:75.0;Physics:76.2;CS:74.3
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_052, Name: Student_52, Email: student_52@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.9;Physics:76.2;CS:74.2
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.9;Physics:76.2;CS:74.2
+Math:74.9;Physics:76.2;CS:74.2
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+Math:74.9;Physics:76.2;CS:74.2
+Student ID: IMT_2023_004, Name: Student_4, Email: student_4@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_026, Name: Student_26, Email: student_26@imt.edu
+Math:74.8;Physics:76.1;CS:74.2
+Math:74.8;Physics:76.1;CS:74.2
+Student ID: IMT_2023_010, Name: Student_10, Email: student_10@imt.edu
+Math:74.8;Physics:76.1;CS:74.1
+Math:74.8;Physics:76.1;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_003, Name: Student_3, Email: student_3@imt.edu
+Math:74.6;Physics:76.1;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_031, Name: Student_31, Email: student_31@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_052, Name: Student_52, Email: student_52@imt.edu
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+Math:74.6;Physics:76.1;CS:74.1
+Student ID: IMT_2023_034, Name: Student_34, Email: student_34@imt.edu
+Math:74.6;Physics:76.1;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.8;Physics:76.2;CS:74.1
+Math:74.8;Physics:76.4;CS:74.1
+Math:74.8;Physics:76.4;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.6;Physics:76.4;CS:74.0
+Math:74.6;Physics:76.4;CS:74.0
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:74.6;Physics:76.4;CS:74.0
+Math:74.6;Physics:76.4;CS:74.0
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.1;Physics:76.0;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_095,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_062, Name: Student_62, Email: student_62@imt.edu
+Math:74.1;Physics:76.0;CS:74.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.1;Physics:76.0;CS:73.9
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Math:74.1;Physics:76.0;CS:73.1
+Math:74.1;Physics:76.0;CS:73.1
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Math:74.0;Physics:76.0;CS:73.1
+Math:74.1;Physics:76.0;CS:73.1
+Math:74.1;Physics:76.0;CS:73.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.1;Physics:76.0;CS:73.1
+Math:74.3;Physics:76.0;CS:73.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+Math:74.2;Physics:76.0;CS:73.1
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_044, Name: Student_44, Email: student_44@imt.edu
+Student ID: IMT_2023_005, Name: Student_5, Email: student_5@imt.edu
+Student ID: IMT_2023_047, Name: Student_47, Email: student_47@imt.edu
+Student ID: IMT_2023_016, Name: Student_16, Email: student_16@imt.edu
+Math:74.4;Physics:76.5;CS:73.1
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+Student ID: IMT_2023_019, Name: Student_19, Email: student_19@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.2;Physics:76.5;CS:73.0
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+Student ID: IMT_2023_030, Name: Student_30, Email: student_30@imt.edu
+Student ID: IMT_2023_037, Name: Student_37, Email: student_37@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_021, Name: Student_21, Email: student_21@imt.edu
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Math:74.4;Physics:76.8;CS:73.0
+Math:74.4;Physics:76.8;CS:73.0
+Math:74.4;Physics:76.8;CS:73.3
+Math:74.4;Physics:76.8;CS:73.3
+Student ID: IMT_2023_074, Name: Student_74, Email: student_74@imt.edu
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Math:74.4;Physics:76.5;CS:73.3
+Math:74.4;Physics:76.5;CS:73.3
+Math:74.3;Physics:76.5;CS:73.4
+IMT_2023_072,IMT_2023_028,IMT_2023_096,IMT_2023_004,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.5;Physics:76.5;CS:73.4
+Math:74.5;Physics:76.5;CS:73.4
+Math:74.5;Physics:76.2;CS:73.4
+Math:74.5;Physics:76.2;CS:73.5
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.5;Physics:76.2;CS:73.5
+Math:74.5;Physics:76.2;CS:73.5
+Student ID: IMT_2023_019, Name: Student_19, Email: student_19@imt.edu
+Student ID: IMT_2023_081, Name: Student_81, Email: student_81@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.4;Physics:75.8;CS:73.5
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.4;Physics:75.8;CS:73.5
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_079, Name: Student_79, Email: student_79@imt.edu
+Math:74.4;Physics:75.8;CS:73.8
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+Math:74.4;Physics:75.8;CS:73.8
+Math:74.4;Physics:75.8;CS:73.8
+Student ID: IMT_2023_055, Name: Student_55, Email: student_55@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.9;Physics:76.0;CS:74.3
+Math:74.9;Physics:76.0;CS:74.3
+Math:74.9;Physics:76.0;CS:74.3
+Math:74.9;Physics:76.0;CS:74.4
+Student ID: IMT_2023_032, Name: Student_32, Email: student_32@imt.edu
+Math:75.1;Physics:76.0;CS:74.5
+Math:75.1;Physics:76.0;CS:74.5
+Student ID: IMT_2023_091, Name: Student_91, Email: student_91@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+IMT_2023_072,IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.1;Physics:75.8;CS:74.9
+Math:75.1;Physics:75.8;CS:74.8
+Student ID: IMT_2023_006, Name: Student_6, Email: student_6@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_017, Name: Student_17, Email: student_17@imt.edu
+Student ID: IMT_2023_003, Name: Student_3, Email: student_3@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.3;Physics:75.8;CS:74.9
+Math:75.3;Physics:75.8;CS:74.9
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.3;Physics:75.8;CS:74.9
+Math:75.3;Physics:75.8;CS:74.9
+Math:75.3;Physics:75.8;CS:74.8
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.2;Physics:75.8;CS:74.8
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.1;Physics:75.8;CS:74.8
+Math:75.1;Physics:75.8;CS:74.8
+Student ID: IMT_2023_003, Name: Student_3, Email: student_3@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.9;Physics:75.5;CS:74.7
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_011, Name: Student_11, Email: student_11@imt.edu
+Math:74.8;Physics:75.5;CS:74.4
+Math:74.8;Physics:75.5;CS:74.4
+Math:74.8;Physics:75.5;CS:74.4
+Math:74.8;Physics:75.5;CS:74.3
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.8;Physics:75.5;CS:74.4
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Student ID: IMT_2023_041, Name: Student_41, Email: student_41@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_095, Name: Student_95, Email: student_95@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.8;Physics:75.5;CS:74.6
+Math:74.8;Physics:75.5;CS:74.6
+Math:74.8;Physics:75.5;CS:74.5
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_033, Name: Student_33, Email: student_33@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_077, Name: Student_77, Email: student_77@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+Math:74.6;Physics:75.4;CS:74.9
+Student ID: IMT_2023_014, Name: Student_14, Email: student_14@imt.edu
+Math:74.6;Physics:75.4;CS:74.9
+Math:74.6;Physics:75.4;CS:74.9
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.4;Physics:75.4;CS:75.3
+Math:74.4;Physics:75.4;CS:75.3
+Student ID: IMT_2023_049, Name: Student_49, Email: student_49@imt.edu
+Math:74.4;Physics:75.4;CS:75.1
+Student ID: IMT_2023_078, Name: Student_78, Email: student_78@imt.edu
+Math:74.4;Physics:75.7;CS:75.1
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.4;Physics:75.7;CS:75.1
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+Math:74.4;Physics:75.7;CS:75.1
+Math:74.4;Physics:75.7;CS:75.1
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.4;Physics:75.7;CS:75.0
+Math:74.4;Physics:75.7;CS:75.0
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_006,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_002, Name: Student_2, Email: student_2@imt.edu
+Student ID: IMT_2023_005, Name: Student_5, Email: student_5@imt.edu
+Student ID: IMT_2023_083, Name: Student_83, Email: student_83@imt.edu
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.1;Physics:75.7;CS:75.0
+Math:74.1;Physics:75.7;CS:75.0
+Student ID: IMT_2023_008, Name: Student_8, Email: student_8@imt.edu
+Math:74.0;Physics:75.7;CS:75.0
+Math:74.0;Physics:75.7;CS:75.0
+Math:74.0;Physics:75.7;CS:75.0
+Student ID: IMT_2023_001, Name: Student_1, Email: student_1@imt.edu
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.2;Physics:75.6;CS:75.1
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.2;Physics:75.6;CS:75.1
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.5;Physics:75.6;CS:75.0
+Math:74.8;Physics:75.6;CS:75.0
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_027, Name: Student_27, Email: student_27@imt.edu
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+Student ID: IMT_2023_085, Name: Student_85, Email: student_85@imt.edu
+Student ID: IMT_2023_005, Name: Student_5, Email: student_5@imt.edu
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+Student ID: IMT_2023_089, Name: Student_89, Email: student_89@imt.edu
+Math:74.8;Physics:75.1;CS:75.5
+Math:74.8;Physics:75.1;CS:75.5
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_021, Name: Student_21, Email: student_21@imt.edu
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:75.0;Physics:75.1;CS:75.5
+Math:75.0;Physics:75.1;CS:75.5
+IMT_2023_028,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:75.0;Physics:75.1;CS:75.5
+Math:75.0;Physics:75.1;CS:75.5
+Student ID: IMT_2023_100, Name: Student_100, Email: student_100@imt.edu
+Math:75.0;Physics:75.1;CS:75.6
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:75.0;Physics:75.1;CS:75.6
+Math:75.0;Physics:75.1;CS:75.6
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:75.0;Physics:75.0;CS:75.6
+Math:75.0;Physics:75.0;CS:75.6
+Student ID: IMT_2023_051, Name: Student_51, Email: student_51@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_099,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.6;Physics:74.4;CS:75.6
+Math:74.6;Physics:74.4;CS:75.6
+Math:74.6;Physics:74.4;CS:75.6
+Math:74.6;Physics:74.4;CS:75.6
+Math:74.5;Physics:74.5;CS:75.6
+Math:74.6;Physics:74.5;CS:75.6
+Math:74.6;Physics:74.5;CS:75.6
+Student ID: IMT_2023_050, Name: Student_50, Email: student_50@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_087,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.6;Physics:74.4;CS:75.3
+Student ID: IMT_2023_023, Name: Student_23, Email: student_23@imt.edu
+Math:74.6;Physics:74.4;CS:75.5
+Math:74.6;Physics:74.4;CS:75.3
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Math:74.8;Physics:74.4;CS:75.3
+Student ID: IMT_2023_013, Name: Student_13, Email: student_13@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.5;Physics:74.3;CS:75.3
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_039, Name: Student_39, Email: student_39@imt.edu
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.5;Physics:74.3;CS:75.3
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.5;Physics:74.3;CS:75.5
+Math:74.2;Physics:73.9;CS:75.5
+Math:74.3;Physics:73.9;CS:75.5
+Math:74.3;Physics:73.9;CS:75.3
+Student ID: IMT_2023_082, Name: Student_82, Email: student_82@imt.edu
+Student ID: IMT_2023_070, Name: Student_70, Email: student_70@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_072, Name: Student_72, Email: student_72@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_073, Name: Student_73, Email: student_73@imt.edu
+Math:74.6;Physics:74.1;CS:75.6
+Student ID: IMT_2023_063, Name: Student_63, Email: student_63@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.6;Physics:74.5;CS:75.9
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Math:74.4;Physics:74.5;CS:75.9
+Student ID: IMT_2023_018, Name: Student_18, Email: student_18@imt.edu
+Student ID: IMT_2023_065, Name: Student_65, Email: student_65@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_053, Name: Student_53, Email: student_53@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+Student ID: IMT_2023_061, Name: Student_61, Email: student_61@imt.edu
+Math:74.4;Physics:74.5;CS:75.9
+Student ID: IMT_2023_025, Name: Student_25, Email: student_25@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030,IMT_2023_093
+Student ID: IMT_2023_059, Name: Student_59, Email: student_59@imt.edu
+Math:74.5;Physics:74.5;CS:75.9
+Student ID: IMT_2023_015, Name: Student_15, Email: student_15@imt.edu
+Math:74.5;Physics:74.5;CS:75.9
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.5;Physics:74.5;CS:75.9
+Math:74.5;Physics:74.5;CS:75.9
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_092, Name: Student_92, Email: student_92@imt.edu
+Math:74.5;Physics:74.5;CS:75.9
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.5;Physics:74.5;CS:75.9
+Math:74.5;Physics:74.5;CS:75.9
+Math:74.5;Physics:74.7;CS:75.9
+Math:74.5;Physics:74.7;CS:75.9
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.6;Physics:74.7;CS:75.9
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.6;Physics:74.7;CS:75.9
+Student ID: IMT_2023_077, Name: Student_77, Email: student_77@imt.edu
+Math:74.8;Physics:74.5;CS:75.9
+Student ID: IMT_2023_004, Name: Student_4, Email: student_4@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_022, Name: Student_22, Email: student_22@imt.edu
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_094, Name: Student_94, Email: student_94@imt.edu
+Math:74.7;Physics:74.5;CS:75.5
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:74.7;Physics:74.5;CS:75.5
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_043, Name: Student_43, Email: student_43@imt.edu
+Student ID: IMT_2023_035, Name: Student_35, Email: student_35@imt.edu
+Student ID: IMT_2023_069, Name: Student_69, Email: student_69@imt.edu
+Math:74.7;Physics:74.5;CS:75.5
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Math:75.2;Physics:74.3;CS:75.5
+IMT_2023_028,IMT_2023_061,IMT_2023_076,IMT_2023_004,IMT_2023_054,IMT_2023_015,IMT_2023_026,IMT_2023_050,IMT_2023_073,IMT_2023_059,IMT_2023_047,IMT_2023_084,IMT_2023_030
+Student ID: IMT_2023_008, Name: Student_8, Email: student_8@imt.edu
+Student ID: IMT_2023_060, Name: Student_60, Email: student_60@imt.edu
+Student ID: IMT_2023_026, Name: Student_26, Email: student_26@imt.edu
