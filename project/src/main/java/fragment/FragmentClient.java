@@ -224,6 +224,15 @@ public class FragmentClient {
     }
 
     public void closeConnections() {
-
+        try {
+            for (Connection conn : connectionPool.values()) {
+                if (conn != null && !conn.isClosed()) {
+                    conn.close();
+                }
+            }
+            System.out.println("All connections closed.");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 }
