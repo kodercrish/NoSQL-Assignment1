@@ -20,8 +20,8 @@ public class FragmentClient {
      */
     public void setupConnections() {
         try {
-            String user = "appadmin";
-            String password = "strongpassword";
+            String user = "imt2023111";
+            String password = "secret";
 
             for (int i = 0; i < numFragments; i++) {
                 String dbName = "frag" + i;
@@ -200,8 +200,32 @@ public class FragmentClient {
      */
     public String getAvgScoreByDept() {
         try {
-            // Your code here
-            return null;
+            // Pick a random fragment
+            int fragmentId = new Random().nextInt(numFragments);
+            Connection conn = connectionPool.get(fragmentId);
+
+            String sql = "SELECT c.department, AVG(g.score) AS avg_score " +
+                    "FROM Grade g JOIN Course c ON g.course_id = c.course_id " +
+                    "GROUP BY c.department";
+
+            Statement stmt = conn.createStatement();
+            ResultSet rs = stmt.executeQuery(sql);
+
+            StringBuilder result = new StringBuilder();
+
+            while (rs.next()) {
+                String dept = rs.getString("department");
+                double avg = rs.getDouble("avg_score");
+
+                if (result.length() > 0)
+                    result.append(";");
+                result.append(dept).append(":").append(String.format("%.1f", avg));
+            }
+
+            rs.close();
+            stmt.close();
+
+            return result.length() == 0 ? null : result.toString();
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -214,8 +238,34 @@ public class FragmentClient {
      */
     public String getAllStudentsWithMostCourses() {
         try {
-            // Your code here
-            return null;
+            int fragmentId = new Random().nextInt(numFragments);
+            Connection conn = connectionPool.get(fragmentId);
+
+            String sql = "SELECT student_id " +
+                    "FROM Grade " +
+                    "GROUP BY student_id " +
+                    "HAVING COUNT(course_id) = (" +
+                    "   SELECT MAX(cnt) FROM (" +
+                    "       SELECT COUNT(course_id) AS cnt " +
+                    "       FROM Grade GROUP BY student_id" +
+                    "   ) sub" +
+                    ")";
+
+            Statement stmt = conn.createStatement();
+            ResultSet rs = stmt.executeQuery(sql);
+
+            StringBuilder result = new StringBuilder();
+
+            while (rs.next()) {
+                if (result.length() > 0)
+                    result.append(",");
+                result.append(rs.getString("student_id"));
+            }
+
+            rs.close();
+            stmt.close();
+
+            return result.length() == 0 ? null : result.toString();
 
         } catch (Exception e) {
             e.printStackTrace();
