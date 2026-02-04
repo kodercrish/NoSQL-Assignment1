@@ -3,7 +3,7 @@ import java.util.Scanner;
 import fragment.FragmentClient;
 
 public class Driver {
-    private static final int NUM_FRAGMENTS = 3;
+    private static final int NUM_FRAGMENTS = 1;
 
     public static void main(String[] args) {
         FragmentClient client = new FragmentClient(NUM_FRAGMENTS);
@@ -28,7 +28,8 @@ public class Driver {
 
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine().trim();
-                if (line.isEmpty()) continue;
+                if (line.isEmpty())
+                    continue;
 
                 String[] parts = line.split(",");
                 String command = parts[0];
@@ -92,4 +93,3 @@ public class Driver {
         }
     }
 }
-
